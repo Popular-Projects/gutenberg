@@ -9,7 +9,7 @@ The Gutenberg plugin provides editing, customization, and site building features
 
 == Description ==asdf
 
-“Gutenberg” is a codename for a whole new paradigm for creating with WordPress, that aims to revolutionize the entire publishing experience as much as <a href="https://en.wikipedia.org/wiki/Johannes_Gutenberg">Johannes Gutenberg</a> did the printed word. The project is <a href="https://wordpress.org/about/roadmap/">following a four-phase process</a> that will touch major pieces of WordPress — Editing, Customization, Collaboration, and Multilingual.
+“Gutenberg” is a codename for a whole new paradigm for creating with WordPress, that aims to revolutionize the entire publishing experience as much as <a href="https://en.wikipedia.org/wiki/Johannes_Gutenberg">Johannes Gutenberg</a> did the printed word. The project is <a href="https://wordpress.org/about/roadmap/">following a four-phase process</a> that will touch major pieces of WordPress — Editing, Customization, Collaboration, and Multilingual.sadf
 
 Following the introduction of post block editing in December 2018, Gutenberg later introduced full site editing (FSE) in 2021, <a href="https://wordpress.org/news/2022/01/josephine/">which shipped with WordPress 5.9 in early 2022</a>.
 
